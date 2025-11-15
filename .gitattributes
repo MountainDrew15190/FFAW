@@ -1,3 +1,4 @@
+*.resS filter=lfs diff=lfs merge=lfs -text
 *.DS_Store filter=lfs diff=lfs merge=lfs -text
 *.exe filter=lfs diff=lfs merge=lfs -text
 *.txt filter=lfs diff=lfs merge=lfs -text
@@ -9,7 +10,6 @@
 *.config filter=lfs diff=lfs merge=lfs -text
 /Fey[[:space:]]For[[:space:]]A[[:space:]]While_Data/globalgamemanagers filter=lfs diff=lfs merge=lfs -text
 *.assets filter=lfs diff=lfs merge=lfs -text
-*.resS filter=lfs diff=lfs merge=lfs -text
 /Fey[[:space:]]For[[:space:]]A[[:space:]]While_Data/level0 filter=lfs diff=lfs merge=lfs -text
 /Fey[[:space:]]For[[:space:]]A[[:space:]]While_Data/level1 filter=lfs diff=lfs merge=lfs -text
 /Fey[[:space:]]For[[:space:]]A[[:space:]]While_Data/level2 filter=lfs diff=lfs merge=lfs -text
